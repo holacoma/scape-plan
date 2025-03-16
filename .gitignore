@@ -2,3 +2,35 @@
 *.gd.uid
 .godot/
 /android/
+
+
+# Godot-specific files/folders
+.import/
+.export/
+export.cfg
+export_presets.cfg
+
+# Opcional: Ignorar backups generados por el editor
+*.tmp
+*.converted.*
+*.godot_exported
+
+# Opcional: ignorar el lock de Godot si no estás colaborando en tiempo real
+.editor_lock
+
+# Opcional: ignorar los archivos de configuración de usuario local
+.godot/
+
+# Typical OS/system files
+.DS_Store
+Thumbs.db
+
+# Typical IDE/editor folders
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Python or shell scripts cache (por si tenés automatizaciones)
+__pycache__/
+*.pyc
