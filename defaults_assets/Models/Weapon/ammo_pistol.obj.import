@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tqk07p5x8e1n"
+path="res://.godot/imported/ammo_pistol.obj-7f48e2fd62b459cb2172b86f3b41db9e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ammo_pistol.obj-7f48e2fd62b459cb2172b86f3b41db9e.mesh"]
+
+source_file="res://defaults_assets/Models/Weapon/ammo_pistol.obj"
+dest_files=["res://.godot/imported/ammo_pistol.obj-7f48e2fd62b459cb2172b86f3b41db9e.mesh", "res://.godot/imported/ammo_pistol.obj-7f48e2fd62b459cb2172b86f3b41db9e.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
