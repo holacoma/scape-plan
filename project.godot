@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="scape-plan"
-run/main_scene="uid://cmybmjtk3jo7g"
+run/main_scene="uid://cik1k5vj715bm"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
